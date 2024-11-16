@@ -22,6 +22,7 @@ export default function Home() {
     AOS.refresh()
   }, [])
   
+  
   return (
 <main>
   <Hero />
